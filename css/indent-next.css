@@ -1,0 +1,21 @@
+.indent-next__wrapper {
+	display: flow-root;
+}
+
+.indent-next__wrapper:not(:last-child) {
+	margin-bottom: 30px;
+}
+
+.indent-next__image-left {
+	float: left;
+	margin-right: 30px;
+}
+
+.indent-next__text:not(:last-child) {
+	margin-bottom: 30px;
+}
+
+.indent-next__image-right {
+	float: right;
+	margin-left: 40px;
+}

@@ -1,0 +1,16 @@
+.group__text {
+	margin-bottom: 30px;
+}
+
+.group__image {
+	margin-bottom: 30px;
+}
+
+.group__img {
+	display: block;
+	margin: 0 auto;
+}
+
+.group__image_code {
+	margin-bottom: 0;
+}

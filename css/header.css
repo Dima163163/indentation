@@ -1,0 +1,17 @@
+.header-title {
+	font-size: 60px;
+	font-weight: 900;
+	margin-bottom: 30px;
+	line-height: 120%;
+}
+
+.header-text {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.header-text:not(:last-child) {
+	margin-bottom: 30px;
+}
